@@ -1,0 +1,5 @@
+1.低通滤波器：ll_filrter.m 参考下述博客，具体代码有所修改。
+ http://blog.csdn.net/creazyma/article/details/70241529
+2.enhance.m 语音增强算法，改自百度文库，目前链接已丢失。关键字“语音增强”“汉明窗”
+3.小波函数wden参数意义参考见：
+http://blog.csdn.net/zhenggw163/article/details/7706118
