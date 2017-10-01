@@ -1,0 +1,13 @@
+clear all;
+close all;
+clc;
+load Guitar.mat;
+music = audioread('fmt.wav');
+figure;
+subplot(1,2,1);
+plot(realwave);
+title('realwave');
+subplot(1,2,2);
+plot(wave2proc);
+title('wave2proc');
+sound(music);
